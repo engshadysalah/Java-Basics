@@ -28,4 +28,4 @@ It's very simple examples for Java Basics like
 26: ToString	 
 27: Variables 
 
-Note That repo is jaust only for Java Learning Beginners
+Note That repo is just only for Java Learning Beginners
